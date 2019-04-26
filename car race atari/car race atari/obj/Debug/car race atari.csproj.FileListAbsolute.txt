@@ -1,0 +1,12 @@
+C:\Users\Asus\Documents\SharpDevelop Projects\car race atari\car race atari\bin\Debug\car race atari.exe.config
+C:\Users\Asus\Documents\SharpDevelop Projects\car race atari\car race atari\bin\Debug\car race atari.exe
+C:\Users\Asus\Documents\SharpDevelop Projects\car race atari\car race atari\bin\Debug\car race atari.pdb
+C:\Users\Asus\Documents\SharpDevelop Projects\car race atari\car race atari\obj\Debug\car race atari.exe
+C:\Users\Asus\Documents\SharpDevelop Projects\car race atari\car race atari\obj\Debug\car race atari.pdb
+C:\Users\Asus\Documents\SharpDevelop Projects\car race atari\car race atari\obj\Debug\car race atari.csprojResolveAssemblyReference.cache
+C:\Users\kosnük\Desktop\car race atari\car race atari\bin\Debug\car race atari.exe.config
+C:\Users\kosnük\Desktop\car race atari\car race atari\bin\Debug\car race atari.exe
+C:\Users\kosnük\Desktop\car race atari\car race atari\bin\Debug\car race atari.pdb
+C:\Users\kosnük\Desktop\car race atari\car race atari\obj\Debug\car race atari.csprojResolveAssemblyReference.cache
+C:\Users\kosnük\Desktop\car race atari\car race atari\obj\Debug\car race atari.exe
+C:\Users\kosnük\Desktop\car race atari\car race atari\obj\Debug\car race atari.pdb
